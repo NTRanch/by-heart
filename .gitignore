@@ -5,3 +5,5 @@ Saved/
 *.sln
 *.suo
 book/html/
+build/
+.capture-frames/
