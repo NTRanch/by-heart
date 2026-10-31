@@ -1,0 +1,9 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "By Heart — Torogao jam program entry (Nice Thoughts Ranch). PREFLIGHT-VERIFY the engine association on primo.",
+  "Modules": [
+    { "Name": "ByHeart", "Type": "Runtime", "LoadingPhase": "Default" }
+  ]
+}
