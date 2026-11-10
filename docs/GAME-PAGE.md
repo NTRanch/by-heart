@@ -14,7 +14,7 @@ All characters depicted are adults.
 
 ## A memory game where you learn command-and-response pairs by heart and answer each order before its window closes.
 
-<p align="center"><a href="https://github.com/NTRanch/by-heart">GitHub</a> · <a href="https://github.com/NTRanch/by-heart/blob/main/LICENSE.md">License</a> · <a href="https://ntranch.itch.io">itch.io studio page</a></p>
+<p align="center"><a href="https://github.com/NTRanch/by-heart">GitHub</a> · <a href="https://github.com/NTRanch/by-heart/blob/main/LICENSE.md">License</a> · <a href="https://ntranch.itch.io">itch.io studio page</a> · <a href="https://github.com/NTRanch/by-heart/releases/tag/v1.0.0">Release</a></p>
 
 ![By Heart header](../assets/brand/header.png)
 
